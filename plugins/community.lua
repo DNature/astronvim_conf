@@ -8,8 +8,10 @@ return {
   { import = "astrocommunity.completion.cmp-cmdline" },
   { import = "astrocommunity.colorscheme.gruvbox-baby" },
   { import = "astrocommunity.scrolling.mini-animate" },
-  { import = "astrocommunity.bars-and-lines.heirline-mode-text-statusline" },
+  { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
   { import = "astrocommunity.bars-and-lines.scope-nvim" },
   { import = "astrocommunity.motion.nvim-surround" },
   { import = "astrocommunity.project.project-nvim", lazy = false },
+  { import = "astrocommunity.recipes.vscode-icons" },
+  { import = "astrocommunity.recipes.vscode" },
 }
